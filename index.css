@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+  font-family: "courier";
+  color:#990000;
+  font-size: 30px;
+  margin: 10px;
+  width:0px;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 20px;
+  background: #BDBDBD;
+  border-bottom: 1px solid #fff;
+  color: #000;
+  border: 1px solid #000000;
+}
